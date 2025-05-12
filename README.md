@@ -91,8 +91,8 @@ Below is a summary of each variant’s architecture along with its final test MS
 | ------- | ------: | -----: | -----: | ------: | -------: |
 | tiny    |     128 |      2 |    256 |    0.10 |   0.0034 |
 | small   |     256 |      3 |    512 |    0.15 |   0.0028 |
-| medium  |     512 |      4 |   1024 |    0.20 |        X |
-| large   |     768 |      5 |   1536 |    0.20 |        X |
+| medium  |     512 |      4 |   1024 |    0.20 |   0.0026 |
+| large   |     768 |      5 |   1536 |    0.20 |   0.0020 |
 
 ### Mean Squared Error (MSE)
 
