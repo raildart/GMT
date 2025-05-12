@@ -2,8 +2,6 @@ experiment.ipynb
 experiments/
 experiments
 
-*.pt
-*.pth
 *.onnx
 *.onnxruntime
 
